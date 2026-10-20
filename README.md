@@ -45,7 +45,7 @@ VigiRiyantanu@github
 
 <br>
 
-## **☕ About me**
+## **About me**
 <a href="https://github.com/VigiRiyantanu"><img align="left" width="140" src="./images/img_1.webp" alt="Vigi"></a>
 
 - Name: **Vigi Riyan Tanu**
@@ -56,7 +56,7 @@ VigiRiyantanu@github
 
 <br clear="all" />
 
-## **💻 Experience**
+## **Experience**
 <a href="https://github.com/VigiRiyantanu"><img align="right" width="120" src="./images/img_3.webp" alt="Experience"></a>
 
 - 🎓 Informatics Engineering student at UIN Maulana Malik Ibrahim Malang.
@@ -65,7 +65,7 @@ VigiRiyantanu@github
 
 <br clear="all" />
 
-## **📊 GitHub Stats**
+## **GitHub Stats**
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VigiRiyantanu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigiRiyantanu&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top languages" />
@@ -80,7 +80,7 @@ irm xai-v.dev/someting | iex
 
 <br clear="all" />
 
-## **📫 Contact**
+## **Contact**
 <a href="https://github.com/VigiRiyantanu"><img align="right" width="120" src="./images/img_2.webp" alt="Contact"></a>
 
 - **LinkedIn:** [Vigi Riyantanu](https://www.linkedin.com/in/vigi-riyantanu-586b97354)
