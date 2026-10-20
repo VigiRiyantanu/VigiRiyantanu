@@ -48,11 +48,11 @@ VigiRiyantanu@github
 ## **About me**
 <a href="https://github.com/VigiRiyantanu"><img align="left" width="140" src="./images/img_1.webp" alt="Vigi"></a>
 
- Name: **Vigi Riyan Tanu**
- Residing in: **Indonesia** 🇮🇩
- Hobbies: **Coding, Gaming, Exploring Tech**
- Work: **Informatics Engineering Student**
- Language: **Indonesian, English**
+ Name: **Vigi Riyan Tanu** <br>
+ Residing in: **Indonesia** 🇮🇩 <br>
+ Hobbies: **Coding, Gaming, Exploring Tech** <br>
+ Work: **Informatics Engineering Student** <br>
+ Language: **Indonesian, English** <br>
 
 <br clear="all" />
 
