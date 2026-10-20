@@ -13,15 +13,16 @@
 
 
 ```
-VigiRiyantanu@github
+VigiRiyantanu@aimx.dev
 -------------------------
  UIN Maulana Malik Ibrahim Malang 
  Informatics Engineering student 
  Building web apps & systems tools 
- Languages: TypeScript, Rust 
- Keen on clean UI & interactive web (React, Three.js) 
+ Languages: TypeScript, Rust, React, Three.js
  Coding / Gaming / Exploring tech 
  Based in Indonesia 
+```
+```
 ```
 
 <br>
