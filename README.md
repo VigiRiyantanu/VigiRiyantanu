@@ -14,7 +14,6 @@
 
 ```
 
-
  VigiRiyantanu@aimx.dev
 -------------------------
  UIN Maulana Malik Ibrahim Malang 
@@ -22,7 +21,8 @@
  Building web apps & systems tools 
  Languages: TypeScript, Rust, React, Three.js
  Coding / Gaming / Exploring tech 
- Based in Indonesia 
+ Based in Indonesia
+
 ```
 
 
