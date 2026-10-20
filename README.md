@@ -1,13 +1,26 @@
-![Preview](./images/banner.webp)
-<sub>Arts by [@KeeUUU_](https://x.com/KeeUUU_)</sub>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Pipi's+page+<3)](https://git.io/typing-svg)
 
-<!-- Lanyard Discord Widget: Uncomment and set your Discord ID if you use Lanyard -->
-<!-- <a href="https://discord.com"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a> -->
+<!---
+Show profile views
+-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pipi-bear&color=ffd3d9&style=for-the-badge">
+</p> <br>
 
-### Hi!👋 I'm Vigi⚡
+<p>
+<img align="left" src="assets/profile_pic.jpg" width="300" /> 
 
-*INFORMATICS ENGINEERING STUDENT & TECH ENTHUSIAST*
-
+```
+pipi-bear@github
+-------------------------
+🏫 NTU CSIE
+📜 Chinese Literature in undergrad, fell in love with math, CS in grad :3
+🌱 Working on Compiler optimization 
+💫 Languages: C, C++, Python 
+✏️ Keen on crafting neat, beautiful LaTeX HW
+🏃‍♀️ Marathon / hiking / cycling
+🎵 Check my great musical taste below ჱ̒⸝⸝•̀֊•́⸝⸝)♡
+```
 ## **☕ About me**
 <a href="https://github.com/VigiRiyantanu"><img align="left" width="140" src="./images/img_1.webp"></a>
 - Name: **Vigi Riyan Tanu** 
