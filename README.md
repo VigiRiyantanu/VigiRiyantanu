@@ -79,15 +79,13 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigiRiyantanu&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top languages" />
 </p>
 
-## **Try My Ransomware**
-<a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="./images/crash.gif" alt="crash animation"></a>
+## **🧋Cutie Counter**
+<a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="https://count.getloli.com/@vigiriyantanu?name=vigiriyantanu&theme=green&padding=7&offset=0&scale=1&pixelated=1&darkmode=0" alt="Visitor counter"></a>
 
 ```yaml
+People who visit my profile :3.
 
-
-irm xai-v.dev/someting | iex
-
-
+Hehe~ another cutie has been caught.
 ```
 
 <br clear="all" />
@@ -95,7 +93,7 @@ irm xai-v.dev/someting | iex
 ## **Contact**
 <a href="https://github.com/VigiRiyantanu"><img align="right" width="120" src="./images/img_2.webp" alt="Contact"></a>
 
-- **LinkedIn:** [Vigi Riyantanu](https://www.linkedin.com/in/vigi-riyantanu-586b97354)
+- **LinkedIn:** [Vigi Riyantanu](https://www.linkedin.com/in/vigi-riyantanu/)
 - **GitHub:** [@VigiRiyantanu](https://github.com/VigiRiyantanu)
 - **Email:** [260605110175@student.uin-malang.ac.id](mailto:260605110175@student.uin-malang.ac.id)
 
@@ -103,5 +101,5 @@ irm xai-v.dev/someting | iex
 
 
 [![Followers](https://img.shields.io/github/followers/VigiRiyantanu?label=Followers&style=social)](https://github.com/VigiRiyantanu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigi-riyantanu-586b97354)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigi-riyantanu/)
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:260605110175@student.uin-malang.ac.id)
