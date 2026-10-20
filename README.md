@@ -23,6 +23,17 @@ VigiRiyantanu@github
 🇮🇩 Based in Indonesia
 ```
 
+![Preview](./images/banner.webp)
+<sub>Arts by [@KeeUUU_](https://x.com/KeeUUU_)</sub>
+
+<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+
+
+### Hi!👋 I'm Mizu☔
+
+*SUPER UNEMPLOYED OHIO FINAL BOSS*
+
+
 <br clear="all" />
 
 ## **☕ About me**
