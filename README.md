@@ -1,3 +1,30 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Vigi%27s+page+%3C3" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Show profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VigiRiyantanu&color=ffd3d9&style=for-the-badge" alt="Profile views" />
+</p>
+
+<img align="left" src="https://github.com/VigiRiyantanu.png?size=300" width="300" alt="Vigi Riyan Tanu" />
+
+```
+VigiRiyantanu@github
+-------------------------
+🏫 UIN Maulana Malik Ibrahim Malang
+📜 Informatics Engineering student
+🌱 Building web apps & systems tools
+💫 Languages: TypeScript, Rust
+✏️ Keen on clean UI & interactive web (React, Three.js)
+🎮 Coding / Gaming / Exploring tech
+🇮🇩 Based in Indonesia
+```
+
+<br clear="all" />
+
 ![Banner](./images/banner.webp)
 <sub>Arts by [@KeeUUU_](https://x.com/KeeUUU_)</sub>
 
