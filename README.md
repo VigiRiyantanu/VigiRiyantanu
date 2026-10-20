@@ -22,7 +22,7 @@ VigiRiyantanu@github
 🎮 Coding / Gaming / Exploring tech
 🇮🇩 Based in Indonesia
 ```
-
+## **☕ About me**
 <br clear="all" />
 
 ![Banner](./images/banner.webp)
