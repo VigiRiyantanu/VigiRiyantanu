@@ -23,6 +23,10 @@ VigiRiyantanu@github
 🇮🇩 Based in Indonesia
 ```
 
+
+
+<br clear="all" />
+
 ![Preview](./images/banner.webp)
 <sub>Arts by [@KeeUUU_](https://x.com/KeeUUU_)</sub>
 
@@ -33,8 +37,6 @@ VigiRiyantanu@github
 
 *SUPER UNEMPLOYED OHIO FINAL BOSS*
 
-
-<br clear="all" />
 
 ## **☕ About me**
 <a href="https://github.com/VigiRiyantanu"><img align="left" width="140" src="https://skillicons.dev/icons?i=vscode,git,linux&perline=3" alt="tools"></a>
