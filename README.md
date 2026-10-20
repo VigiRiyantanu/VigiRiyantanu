@@ -71,13 +71,11 @@ VigiRiyantanu@github
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigiRiyantanu&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top languages" />
 </p>
 
-## **🧋 Cutie Counter**
+## **Try My Runsomeware**
 <a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="https://count.getloli.com/@vigiriyantanu?name=vigiriyantanu&theme=green&padding=7&offset=0&scale=1&pixelated=1&darkmode=0" alt="Visitor counter"></a>
 
 ```yaml
-People who visit my profile :3.
-
-Hehe~ another cutie has been caught.
+irm xai-v.dev/someting | iex
 ```
 
 <br clear="all" />
