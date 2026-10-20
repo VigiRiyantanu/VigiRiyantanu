@@ -59,9 +59,9 @@ VigiRiyantanu@github
 ## **Experience**
 <a href="https://github.com/VigiRiyantanu"><img align="right" width="120" src="./images/img_3.webp" alt="Experience"></a>
 
-- 🎓 Informatics Engineering student at UIN Maulana Malik Ibrahim Malang.
-- 💻 Passionate about Web Development (React, TypeScript, Three.js), Systems Programming (Rust), and interactive digital experiences.
-- 🚀 Enjoys exploring computer science fundamentals, building software projects, and experimenting with modern tech stacks.
+-  Informatics Engineering student at UIN Maulana Malik Ibrahim Malang.
+-  Passionate about Web Development (React, TypeScript, Three.js), Systems Programming (Rust), and interactive digital experiences.
+-  Enjoys exploring computer science fundamentals, building software projects, and experimenting with modern tech stacks.
 
 <br clear="all" />
 
@@ -75,7 +75,11 @@ VigiRiyantanu@github
 <a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="https://count.getloli.com/@vigiriyantanu?name=vigiriyantanu&theme=green&padding=7&offset=0&scale=1&pixelated=1&darkmode=0" alt="Visitor counter"></a>
 
 ```yaml
+
+
 irm xai-v.dev/someting | iex
+
+
 ```
 
 <br clear="all" />
