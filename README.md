@@ -1,81 +1,63 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Vigi%27s+page+%3C3" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Show profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VigiRiyantanu&color=ffd3d9&style=for-the-badge" alt="profile views" />
-</p>
-
-<img align="left" src="https://github.com/VigiRiyantanu.png?size=300" width="300" alt="Vigi Riyan Tanu" />
-
-```
-VigiRiyantanu@github
--------------------------
-🏫 UIN Maulana Malik Ibrahim Malang
-📜 Informatics Engineering student
-🌱 Building web apps & systems tools
-💫 Languages: TypeScript, Rust
-✏️ Keen on clean UI & interactive web (React, Three.js)
-🎮 Coding / Gaming / Exploring tech
-🇮🇩 Based in Indonesia
-```
-
-
-
-<br clear="all" />
-
-![Preview](./images/banner.webp)
+![Banner](./images/banner.webp)
 <sub>Arts by [@KeeUUU_](https://x.com/KeeUUU_)</sub>
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+<!-- Optional: Discord widget (Lanyard). Uncomment and set your Discord ID.
+<a href="https://discord.com"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..." alt="Discord status"></a>
+-->
 
+### Hi!👋 I'm Vigi⚡
 
-### Hi!👋 I'm Mizu☔
+*INFORMATICS ENGINEERING STUDENT & TECH ENTHUSIAST*
 
-*SUPER UNEMPLOYED OHIO FINAL BOSS*
-
+<br>
 
 ## **☕ About me**
-<a href="https://github.com/VigiRiyantanu"><img align="left" width="140" src="https://skillicons.dev/icons?i=vscode,git,linux&perline=3" alt="tools"></a>
+<a href="https://github.com/VigiRiyantanu"><img align="left" width="140" src="./images/img_1.webp" alt="Vigi"></a>
+
 - Name: **Vigi Riyan Tanu**
 - Residing in: **Indonesia** 🇮🇩
 - Hobbies: **Coding, Gaming, Exploring Tech**
 - Work: **Informatics Engineering Student**
 - Language: **Indonesian, English**
-<br><br>
+
+<br clear="all" />
 
 ## **💻 Experience**
-<a href="https://github.com/VigiRiyantanu"><img align="right" width="120" src="https://skillicons.dev/icons?i=react,ts,rust,threejs&perline=2" alt="stack"></a>
+<a href="https://github.com/VigiRiyantanu"><img align="right" width="120" src="./images/img_3.webp" alt="Experience"></a>
+
 - 🎓 Informatics Engineering student at UIN Maulana Malik Ibrahim Malang.
 - 💻 Passionate about Web Development (React, TypeScript, Three.js), Systems Programming (Rust), and interactive digital experiences.
 - 🚀 Enjoys exploring computer science fundamentals, building software projects, and experimenting with modern tech stacks.
 
-## **📊 Github Stats**
+<br clear="all" />
+
+## **📊 GitHub Stats**
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VigiRiyantanu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigiRiyantanu&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VigiRiyantanu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigiRiyantanu&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top languages" />
 </p>
 
-## **🧋 Visitor Counter**
-<a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="https://count.getloli.com/@vigiriyantanu?name=vigiriyantanu&theme=green&padding=7&offset=0&scale=1&pixelated=1&darkmode=0" alt="visitor counter"></a>
+## **🧋 Cutie Counter**
+<a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="https://count.getloli.com/@vigiriyantanu?name=vigiriyantanu&theme=green&padding=7&offset=0&scale=1&pixelated=1&darkmode=0" alt="Visitor counter"></a>
 
 ```yaml
-Thanks for stopping by :3
+People who visit my profile :3.
+
+Hehe~ another cutie has been caught.
 ```
-<br>
+
+<br clear="all" />
 
 ## **📫 Contact**
-<a href="https://github.com/VigiRiyantanu"><img align="right" width="120" src="https://skillicons.dev/icons?i=github,linkedin,gmail&perline=3" alt="contact"></a>
+<a href="https://github.com/VigiRiyantanu"><img align="right" width="120" src="./images/img_2.webp" alt="Contact"></a>
+
 - **LinkedIn:** [Vigi Riyantanu](https://www.linkedin.com/in/vigi-riyantanu-586b97354)
 - **GitHub:** [@VigiRiyantanu](https://github.com/VigiRiyantanu)
 - **Email:** [260605110175@student.uin-malang.ac.id](mailto:260605110175@student.uin-malang.ac.id)
 
-<br/>
+<br clear="all" />
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=VigiRiyantanu" alt="views"></a>
-[![](https://img.shields.io/github/followers/VigiRiyantanu?label=Followers&style=social)](https://github.com/VigiRiyantanu)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigi-riyantanu-586b97354)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:260605110175@student.uin-malang.ac.id)
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=VigiRiyantanu" alt="Profile views"></a>
+[![Followers](https://img.shields.io/github/followers/VigiRiyantanu?label=Followers&style=social)](https://github.com/VigiRiyantanu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigi-riyantanu-586b97354)
+[![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:260605110175@student.uin-malang.ac.id)
