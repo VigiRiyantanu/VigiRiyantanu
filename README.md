@@ -71,7 +71,7 @@ VigiRiyantanu@github
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigiRiyantanu&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top languages" />
 </p>
 
-## **Try My Runsomeware**
+## **Try My Ransomware**
 <a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="https://count.getloli.com/@vigiriyantanu?name=vigiriyantanu&theme=green&padding=7&offset=0&scale=1&pixelated=1&darkmode=0" alt="Visitor counter"></a>
 
 ```yaml
