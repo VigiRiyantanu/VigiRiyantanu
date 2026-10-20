@@ -80,7 +80,7 @@
 </p>
 
 ## **Try My Ransomware**
-<a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="https://www.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2016/02/crash.gif" alt="crash animation"></a>
+<a href="https://github.com/VigiRiyantanu"><img align="right" width="400" src="https://www.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2016/02/crash.gif"></a>
 
 ```yaml
 
