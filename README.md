@@ -15,13 +15,13 @@
 ```
 VigiRiyantanu@github
 -------------------------
-🏫 UIN Maulana Malik Ibrahim Malang
-📜 Informatics Engineering student
-🌱 Building web apps & systems tools
-💫 Languages: TypeScript, Rust
-✏️ Keen on clean UI & interactive web (React, Three.js)
-🎮 Coding / Gaming / Exploring tech
-🇮🇩 Based in Indonesia
+ UIN Maulana Malik Ibrahim Malang <br>
+ Informatics Engineering student <br>
+ Building web apps & systems tools <br>
+ Languages: TypeScript, Rust <br>
+ Keen on clean UI & interactive web (React, Three.js) <br>
+ Coding / Gaming / Exploring tech <br>
+ Based in Indonesia <br>
 ```
 
 <br>
@@ -89,7 +89,7 @@ irm xai-v.dev/someting | iex
 
 <br clear="all" />
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=VigiRiyantanu" alt="Profile views"></a>
+
 [![Followers](https://img.shields.io/github/followers/VigiRiyantanu?label=Followers&style=social)](https://github.com/VigiRiyantanu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigi-riyantanu-586b97354)
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:260605110175@student.uin-malang.ac.id)
