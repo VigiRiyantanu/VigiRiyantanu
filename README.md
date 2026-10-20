@@ -10,7 +10,14 @@
 </p>
 
 <img align="left" src="https://github.com/VigiRiyantanu.png?size=300" width="300" alt="Vigi Riyan Tanu" />
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ```
 VigiRiyantanu@github
 -------------------------
@@ -28,7 +35,7 @@ VigiRiyantanu@github
 <br>
 <br>
 
-## **☕ About me**
+## 
 <br clear="all" />
 
 ![Banner](./images/banner.webp)
