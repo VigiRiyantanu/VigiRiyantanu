@@ -7,7 +7,7 @@
 
 
 
-<img align="left" src="https://github.com/VigiRiyantanu.png?size=300" width="300" alt="Vigi Riyan Tanu" />
+<img align="left" src="./images/avatar.jpg" width="300" alt="Vigi Riyan Tanu" style="max-width: 100%;" />
 
 
 
