@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<!-- Show profile views -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VigiRiyantanu&color=ffd3d9&style=for-the-badge" alt="Profile views" />
 </p>
