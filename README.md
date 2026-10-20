@@ -5,9 +5,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VigiRiyantanu&color=ffd3d9&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 <img align="left" src="https://github.com/VigiRiyantanu.png?size=300" width="300" alt="Vigi Riyan Tanu" />
 
