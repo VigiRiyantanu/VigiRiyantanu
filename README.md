@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=22&pause=1000&color=efadc9&center=true&vCenter=true&width=450&height=45&lines=Hi%2C+I%27m+Vigi+Riyan+Tanu+%3C3;Informatics+Engineering+Student;Web+%C2%B7+Rust+%C2%B7+Three.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Vigi%27s+page+%3C3" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,25 +9,21 @@
   <img src="https://komarev.com/ghpvc/?username=VigiRiyantanu&color=ffd3d9&style=for-the-badge" alt="profile views" />
 </p>
 
-<table>
-  <tr>
-    <td width="300" valign="top">
-      <img src="https://github.com/VigiRiyantanu.png?size=300" width="300" alt="Vigi Riyan Tanu" />
-    </td>
-    <td valign="top">
-<pre>
+<img align="left" src="https://github.com/VigiRiyantanu.png?size=300" width="300" alt="Vigi Riyan Tanu" />
+
+```
 VigiRiyantanu@github
 -------------------------
 🏫 UIN Maulana Malik Ibrahim Malang
 📜 Informatics Engineering student
-🌱 Building web apps &amp; systems tools
-💫 React / TypeScript / Three.js / Rust
+🌱 Building web apps & systems tools
+💫 Languages: TypeScript, Rust
+✏️ Keen on clean UI & interactive web (React, Three.js)
 🎮 Coding / Gaming / Exploring tech
-🇮🇩 Indonesia
-</pre>
-    </td>
-  </tr>
-</table>
+🇮🇩 Based in Indonesia
+```
+
+<br clear="all" />
 
 ## **☕ About me**
 <a href="https://github.com/VigiRiyantanu"><img align="left" width="140" src="https://skillicons.dev/icons?i=vscode,git,linux&perline=3" alt="tools"></a>
