@@ -15,13 +15,13 @@
 ```
 VigiRiyantanu@github
 -------------------------
- UIN Maulana Malik Ibrahim Malang <br>
- Informatics Engineering student <br>
- Building web apps & systems tools <br>
- Languages: TypeScript, Rust <br>
- Keen on clean UI & interactive web (React, Three.js) <br>
- Coding / Gaming / Exploring tech <br>
- Based in Indonesia <br>
+ UIN Maulana Malik Ibrahim Malang 
+ Informatics Engineering student 
+ Building web apps & systems tools 
+ Languages: TypeScript, Rust 
+ Keen on clean UI & interactive web (React, Three.js) 
+ Coding / Gaming / Exploring tech 
+ Based in Indonesia 
 ```
 
 <br>
