@@ -42,7 +42,7 @@
 <br clear="all" />
 
 ![Banner](./images/banner.webp)
-// <sub>Arts by [@KeeUUU_](https://x.com/KeeUUU_)</sub>
+
 
 <!-- Optional: Discord widget (Lanyard). Uncomment and set your Discord ID.
 <a href="https://discord.com"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..." alt="Discord status"></a>
